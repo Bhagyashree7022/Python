@@ -1,0 +1,4 @@
+OOPS
+Array data types
+List, tuple, dictionary
+Basic: loop ,string, functions ,OOPS
